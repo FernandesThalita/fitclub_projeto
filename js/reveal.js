@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
         reset: true 
     });
 
-    // Aplicando animação no elemento com a classe explore-card
+    // Aplicando animação no elemento com a classe explore-card, price-card
     ScrollReveal().reveal('.price__card, .explore__card', {
         distance: '10px',
         duration: 2000,
